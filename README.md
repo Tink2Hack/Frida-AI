@@ -25,5 +25,7 @@ Ensure that the jadx tool is installed on your system before running the script.
 Example Command
 ```
 python Android_Scan.py
+
+python iOS_Scanner.py
 ```
-Replace apk_path with the path to your Android application and output_dir with the desired output directory for jadx.
+Replace apk_path with the path to your Android/iOS application and output_dir with the desired output directory for jadx.
