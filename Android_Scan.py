@@ -1,3 +1,9 @@
+# Copyright (c) 2023, Sellva Manoj D S
+# All rights reserved.
+#
+# This software is licensed under the MIT License.
+# See LICENSE.txt for more details.
+
 import os
 import subprocess
 import re
