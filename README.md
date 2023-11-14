@@ -24,6 +24,6 @@ Ensure that the jadx tool is installed on your system before running the script.
 
 Example Command
 ```
-python root_detection_scanner.py /path/to/your/app.apk /path/to/output/directory
+python Android_Scan.py
 ```
-Replace /path/to/your/app.apk with the path to your Android application and /path/to/output/directory with the desired output directory for jadx.
+Replace apk_path with the path to your Android application and output_dir with the desired output directory for jadx.
